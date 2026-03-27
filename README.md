@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Your Name
+# 👋 Hi, I'm Jithin P Joy
 
 🌐 Network Engineer | CCNA Student | Home Lab Builder
 
@@ -28,26 +28,26 @@ I am learning networking by building labs using Cisco technologies and documenti
 
 ### Switching
 
-* [VLAN Configuration](https://github.com/YOUR_USERNAME/vlan-lab)
-* [Inter-VLAN Routing](https://github.com/YOUR_USERNAME/intervlan-lab)
-* [STP Configuration](https://github.com/YOUR_USERNAME/stp-lab)
-* [EtherChannel](https://github.com/YOUR_USERNAME/etherchannel-lab)
+* [VLAN Configuration](https://github.com/Jithinpj4/vlan-lab)
+* [Inter-VLAN Routing](https://github.com/Jithinpj4/intervlan-lab)
+* [STP Configuration](https://github.com/Jithinpj4/stp-lab)
+* [EtherChannel](https://github.com/Jithinpj4/etherchannel-lab)
 
 ### Routing
 
-* [Static Routing](https://github.com/YOUR_USERNAME/static-routing)
-* [OSPF Configuration](https://github.com/YOUR_USERNAME/ospf-lab)
-* [OSPF Troubleshooting](https://github.com/YOUR_USERNAME/ospf-troubleshooting)
+* [Static Routing](https://github.com/Jithinpj4/static-routing)
+* [OSPF Configuration](https://github.com/Jithinpj4/ospf-lab)
+* [OSPF Troubleshooting](https://github.com/Jithinpj4/ospf-troubleshooting)
 
 ### Network Services
 
-* [DHCP Configuration](https://github.com/YOUR_USERNAME/dhcp-lab)
-* [NAT Configuration](https://github.com/YOUR_USERNAME/nat-lab)
-* [NTP Configuration](https://github.com/YOUR_USERNAME/ntp-lab)
+* [DHCP Configuration](https://github.com/Jithinpj4/dhcp-lab)
+* [NAT Configuration](https://github.com/Jithinpj4/nat-lab)
+* [NTP Configuration](https://github.com/Jithinpj4/ntp-lab)
 
 ### Security
 
-* [Standard ACL](https://github.com/YOUR_USERNAME/acl-standard)
-* [Extended ACL](https://github.com/YOUR_USERNAME/acl-extended)
-* [SSH Configuration](https://github.com/YOUR_USERNAME/ssh-lab)
-* [DHCP Snooping](https://github.com/YOUR_USERNAME/dhcp-snooping)
+* [Standard ACL](https://github.com/Jithinpj4/acl-standard)
+* [Extended ACL](https://github.com/Jithinpj4/acl-extended)
+* [SSH Configuration](https://github.com/Jithinpj4/ssh-lab)
+* [DHCP Snooping](https://github.com/Jithinpj4/dhcp-snooping)
